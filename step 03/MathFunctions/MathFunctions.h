@@ -1,0 +1,1 @@
+int fastpow(int, int);

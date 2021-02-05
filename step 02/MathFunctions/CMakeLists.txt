@@ -1,0 +1,1 @@
+add_library(MathFunctions SHARED fastpow.cxx)

@@ -1,0 +1,1 @@
+void hello() { std::cout << "hello from test" << std::endl; }
